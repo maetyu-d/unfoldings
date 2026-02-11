@@ -1,6 +1,6 @@
-# Microsound Symphony (JUCE)
+# unfoldings
 
-This project is a JUCE-based plugin/standalone synth that renders a very short high-sample-rate burst and unfolds it into multi-second textures with Granular, Spectral, or Hybrid modes.
+unfoldings is an experimental microsound instrument that generates ultra-dense bursts at extreme internal sample rates, then unfolds them into extended textures through spectral, granular, and morphogenetic processes. The project takes the form of a JUCE-based plugin and standalone synth.
 
 ## Build
 
