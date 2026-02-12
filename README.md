@@ -1,6 +1,6 @@
 # unfoldings
 
-unfoldings is an experimental microsound instrument that generates ultra-dense bursts at extreme internal sample rates, then unfolds them into extended textures through spectral, granular, and morphogenetic processes. The project takes the form of a JUCE-based plugin (vst3 provided) and standalone synthesizer.
+unfoldings is an experimental microsound instrument that generates ultra-dense bursts at extreme internal sample rates, then unfolds them into extended textures through spectral, granular, and morphogenetic processes. The project takes the form of a JUCE-based plugin (vst3 provided, AU can be generated too) and standalone synthesizer.
 
 ## Build
 
